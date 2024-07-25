@@ -1,4 +1,4 @@
-# Inventory management system
+# Inventory Management System
 ## Overview
 A project to manage and track the inventory of a computer store using Microsoft SQL Server. The system allows for efficient management of inventory data, including adding new items, updating stock levels, and generating reports.
 ## Entity Relationship Diagram (ERD)
